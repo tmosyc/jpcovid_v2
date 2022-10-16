@@ -22,10 +22,20 @@ $ jpcovid_v2 <都道府県名>
 
 $ jpcovid_v2 Tokyo Osaka
 
+<img src="tokyo_osaka.png" width="400">
+
 $ jpcovid_v2 Tokyo Tottori
+
+<img src="tokyo_tottori.png" width="400">
 
 $ jpcovid_v2 Osaka Niigata
 
+<img src="osaka_niigata.png" width="400">
+
 $ jpcovid_v2 Hokkaido Nara
 
+<img src="hokkaido_nara.png" width="400">
+
 $ jpcovid_v2 Niigata Fukui Shimane Tottori
+
+<img src="niigata_fukui_shimane_tottori.png" width="400">
