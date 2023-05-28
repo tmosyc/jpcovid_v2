@@ -10,9 +10,15 @@ jpcovid_v2はcovid-19による各都道府県の死者数の総計をその国�
 
 出力されたグラフの値が高いところほど、政策提案者はより深刻な間違いを犯していると考えることができます。
 
-jpcovid_v2 は、インターネットを介して次のサイトから最新のデータをスクレイピングします。
+以下のnhkのデータセットを利用していましたが、更新されなくなりました
 
 https://www3.nhk.or.jp/n-data/opendata/coronavirus/nhk_news_covid19_prefectures_daily_data.csv
+
+従って、以下の二つのデータセットを代わりに使用することができます https://covid19.mhlw.go.jp/public/opendata/deaths_cumulative_daily.csv
+
+or
+
+https://covid19.mhlw.go.jp/public/opendata/number_of_deaths_daily.csv
 
 # jpcovid_v2のインストール方
 $ pip install jpcovid_v2
